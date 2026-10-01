@@ -1,0 +1,343 @@
+date,slug,brand,model,reference,retail_price,price
+2022-01,rolex-submariner-126610ln,Rolex,Submariner Date,126610LN,11200,15450
+2022-02,rolex-submariner-126610ln,Rolex,Submariner Date,126610LN,11200,15850
+2022-03,rolex-submariner-126610ln,Rolex,Submariner Date,126610LN,11200,17850
+2022-04,rolex-submariner-126610ln,Rolex,Submariner Date,126610LN,11200,17700
+2022-05,rolex-submariner-126610ln,Rolex,Submariner Date,126610LN,11200,17350
+2022-06,rolex-submariner-126610ln,Rolex,Submariner Date,126610LN,11200,16550
+2022-07,rolex-submariner-126610ln,Rolex,Submariner Date,126610LN,11200,16400
+2022-08,rolex-submariner-126610ln,Rolex,Submariner Date,126610LN,11200,16100
+2022-09,rolex-submariner-126610ln,Rolex,Submariner Date,126610LN,11200,16350
+2022-10,rolex-submariner-126610ln,Rolex,Submariner Date,126610LN,11200,15950
+2022-11,rolex-submariner-126610ln,Rolex,Submariner Date,126610LN,11200,15450
+2022-12,rolex-submariner-126610ln,Rolex,Submariner Date,126610LN,11200,15400
+2023-01,rolex-submariner-126610ln,Rolex,Submariner Date,126610LN,11200,15350
+2023-02,rolex-submariner-126610ln,Rolex,Submariner Date,126610LN,11200,14850
+2023-03,rolex-submariner-126610ln,Rolex,Submariner Date,126610LN,11200,14200
+2023-04,rolex-submariner-126610ln,Rolex,Submariner Date,126610LN,11200,14250
+2023-05,rolex-submariner-126610ln,Rolex,Submariner Date,126610LN,11200,13950
+2023-06,rolex-submariner-126610ln,Rolex,Submariner Date,126610LN,11200,13450
+2023-07,rolex-submariner-126610ln,Rolex,Submariner Date,126610LN,11200,13150
+2023-08,rolex-submariner-126610ln,Rolex,Submariner Date,126610LN,11200,13450
+2023-09,rolex-submariner-126610ln,Rolex,Submariner Date,126610LN,11200,12950
+2023-10,rolex-submariner-126610ln,Rolex,Submariner Date,126610LN,11200,13100
+2023-11,rolex-submariner-126610ln,Rolex,Submariner Date,126610LN,11200,12600
+2023-12,rolex-submariner-126610ln,Rolex,Submariner Date,126610LN,11200,12800
+2024-01,rolex-submariner-126610ln,Rolex,Submariner Date,126610LN,11200,12850
+2024-02,rolex-submariner-126610ln,Rolex,Submariner Date,126610LN,11200,12750
+2024-03,rolex-submariner-126610ln,Rolex,Submariner Date,126610LN,11200,12400
+2024-04,rolex-submariner-126610ln,Rolex,Submariner Date,126610LN,11200,12250
+2024-05,rolex-submariner-126610ln,Rolex,Submariner Date,126610LN,11200,13250
+2024-06,rolex-submariner-126610ln,Rolex,Submariner Date,126610LN,11200,12750
+2024-07,rolex-submariner-126610ln,Rolex,Submariner Date,126610LN,11200,13300
+2024-08,rolex-submariner-126610ln,Rolex,Submariner Date,126610LN,11200,12800
+2024-09,rolex-submariner-126610ln,Rolex,Submariner Date,126610LN,11200,12600
+2024-10,rolex-submariner-126610ln,Rolex,Submariner Date,126610LN,11200,12900
+2024-11,rolex-submariner-126610ln,Rolex,Submariner Date,126610LN,11200,12650
+2024-12,rolex-submariner-126610ln,Rolex,Submariner Date,126610LN,11200,12950
+2025-01,rolex-submariner-126610ln,Rolex,Submariner Date,126610LN,11200,13350
+2025-02,rolex-submariner-126610ln,Rolex,Submariner Date,126610LN,11200,13200
+2025-03,rolex-submariner-126610ln,Rolex,Submariner Date,126610LN,11200,13800
+2025-04,rolex-submariner-126610ln,Rolex,Submariner Date,126610LN,11200,13150
+2025-05,rolex-submariner-126610ln,Rolex,Submariner Date,126610LN,11200,13200
+2025-06,rolex-submariner-126610ln,Rolex,Submariner Date,126610LN,11200,12900
+2025-07,rolex-submariner-126610ln,Rolex,Submariner Date,126610LN,11200,12950
+2025-08,rolex-submariner-126610ln,Rolex,Submariner Date,126610LN,11200,13250
+2025-09,rolex-submariner-126610ln,Rolex,Submariner Date,126610LN,11200,13000
+2025-10,rolex-submariner-126610ln,Rolex,Submariner Date,126610LN,11200,13200
+2025-11,rolex-submariner-126610ln,Rolex,Submariner Date,126610LN,11200,13200
+2025-12,rolex-submariner-126610ln,Rolex,Submariner Date,126610LN,11200,13050
+2026-01,rolex-submariner-126610ln,Rolex,Submariner Date,126610LN,11200,13900
+2026-02,rolex-submariner-126610ln,Rolex,Submariner Date,126610LN,11200,12900
+2026-03,rolex-submariner-126610ln,Rolex,Submariner Date,126610LN,11200,13450
+2026-04,rolex-submariner-126610ln,Rolex,Submariner Date,126610LN,11200,13700
+2026-05,rolex-submariner-126610ln,Rolex,Submariner Date,126610LN,11200,13750
+2026-06,rolex-submariner-126610ln,Rolex,Submariner Date,126610LN,11200,13400
+2026-07,rolex-submariner-126610ln,Rolex,Submariner Date,126610LN,11200,13300
+2026-08,rolex-submariner-126610ln,Rolex,Submariner Date,126610LN,11200,14200
+2026-09,rolex-submariner-126610ln,Rolex,Submariner Date,126610LN,11200,14150
+2022-01,rolex-daytona-126500ln,Rolex,Cosmograph Daytona,126500LN,16000,39150
+2022-02,rolex-daytona-126500ln,Rolex,Cosmograph Daytona,126500LN,16000,40750
+2022-03,rolex-daytona-126500ln,Rolex,Cosmograph Daytona,126500LN,16000,42600
+2022-04,rolex-daytona-126500ln,Rolex,Cosmograph Daytona,126500LN,16000,40800
+2022-05,rolex-daytona-126500ln,Rolex,Cosmograph Daytona,126500LN,16000,40750
+2022-06,rolex-daytona-126500ln,Rolex,Cosmograph Daytona,126500LN,16000,40750
+2022-07,rolex-daytona-126500ln,Rolex,Cosmograph Daytona,126500LN,16000,39650
+2022-08,rolex-daytona-126500ln,Rolex,Cosmograph Daytona,126500LN,16000,37700
+2022-09,rolex-daytona-126500ln,Rolex,Cosmograph Daytona,126500LN,16000,38100
+2022-10,rolex-daytona-126500ln,Rolex,Cosmograph Daytona,126500LN,16000,36200
+2022-11,rolex-daytona-126500ln,Rolex,Cosmograph Daytona,126500LN,16000,34950
+2022-12,rolex-daytona-126500ln,Rolex,Cosmograph Daytona,126500LN,16000,35500
+2023-01,rolex-daytona-126500ln,Rolex,Cosmograph Daytona,126500LN,16000,34950
+2023-02,rolex-daytona-126500ln,Rolex,Cosmograph Daytona,126500LN,16000,34800
+2023-03,rolex-daytona-126500ln,Rolex,Cosmograph Daytona,126500LN,16000,32650
+2023-04,rolex-daytona-126500ln,Rolex,Cosmograph Daytona,126500LN,16000,33100
+2023-05,rolex-daytona-126500ln,Rolex,Cosmograph Daytona,126500LN,16000,32150
+2023-06,rolex-daytona-126500ln,Rolex,Cosmograph Daytona,126500LN,16000,31300
+2023-07,rolex-daytona-126500ln,Rolex,Cosmograph Daytona,126500LN,16000,30300
+2023-08,rolex-daytona-126500ln,Rolex,Cosmograph Daytona,126500LN,16000,29750
+2023-09,rolex-daytona-126500ln,Rolex,Cosmograph Daytona,126500LN,16000,29550
+2023-10,rolex-daytona-126500ln,Rolex,Cosmograph Daytona,126500LN,16000,28850
+2023-11,rolex-daytona-126500ln,Rolex,Cosmograph Daytona,126500LN,16000,27450
+2023-12,rolex-daytona-126500ln,Rolex,Cosmograph Daytona,126500LN,16000,27200
+2024-01,rolex-daytona-126500ln,Rolex,Cosmograph Daytona,126500LN,16000,27500
+2024-02,rolex-daytona-126500ln,Rolex,Cosmograph Daytona,126500LN,16000,28100
+2024-03,rolex-daytona-126500ln,Rolex,Cosmograph Daytona,126500LN,16000,27900
+2024-04,rolex-daytona-126500ln,Rolex,Cosmograph Daytona,126500LN,16000,27700
+2024-05,rolex-daytona-126500ln,Rolex,Cosmograph Daytona,126500LN,16000,27650
+2024-06,rolex-daytona-126500ln,Rolex,Cosmograph Daytona,126500LN,16000,28700
+2024-07,rolex-daytona-126500ln,Rolex,Cosmograph Daytona,126500LN,16000,27650
+2024-08,rolex-daytona-126500ln,Rolex,Cosmograph Daytona,126500LN,16000,27550
+2024-09,rolex-daytona-126500ln,Rolex,Cosmograph Daytona,126500LN,16000,27800
+2024-10,rolex-daytona-126500ln,Rolex,Cosmograph Daytona,126500LN,16000,28250
+2024-11,rolex-daytona-126500ln,Rolex,Cosmograph Daytona,126500LN,16000,28150
+2024-12,rolex-daytona-126500ln,Rolex,Cosmograph Daytona,126500LN,16000,27900
+2025-01,rolex-daytona-126500ln,Rolex,Cosmograph Daytona,126500LN,16000,28000
+2025-02,rolex-daytona-126500ln,Rolex,Cosmograph Daytona,126500LN,16000,28600
+2025-03,rolex-daytona-126500ln,Rolex,Cosmograph Daytona,126500LN,16000,28650
+2025-04,rolex-daytona-126500ln,Rolex,Cosmograph Daytona,126500LN,16000,28600
+2025-05,rolex-daytona-126500ln,Rolex,Cosmograph Daytona,126500LN,16000,28000
+2025-06,rolex-daytona-126500ln,Rolex,Cosmograph Daytona,126500LN,16000,28550
+2025-07,rolex-daytona-126500ln,Rolex,Cosmograph Daytona,126500LN,16000,29200
+2025-08,rolex-daytona-126500ln,Rolex,Cosmograph Daytona,126500LN,16000,28200
+2025-09,rolex-daytona-126500ln,Rolex,Cosmograph Daytona,126500LN,16000,29550
+2025-10,rolex-daytona-126500ln,Rolex,Cosmograph Daytona,126500LN,16000,28800
+2025-11,rolex-daytona-126500ln,Rolex,Cosmograph Daytona,126500LN,16000,29200
+2025-12,rolex-daytona-126500ln,Rolex,Cosmograph Daytona,126500LN,16000,28200
+2026-01,rolex-daytona-126500ln,Rolex,Cosmograph Daytona,126500LN,16000,29500
+2026-02,rolex-daytona-126500ln,Rolex,Cosmograph Daytona,126500LN,16000,28850
+2026-03,rolex-daytona-126500ln,Rolex,Cosmograph Daytona,126500LN,16000,29050
+2026-04,rolex-daytona-126500ln,Rolex,Cosmograph Daytona,126500LN,16000,29250
+2026-05,rolex-daytona-126500ln,Rolex,Cosmograph Daytona,126500LN,16000,29750
+2026-06,rolex-daytona-126500ln,Rolex,Cosmograph Daytona,126500LN,16000,28850
+2026-07,rolex-daytona-126500ln,Rolex,Cosmograph Daytona,126500LN,16000,29300
+2026-08,rolex-daytona-126500ln,Rolex,Cosmograph Daytona,126500LN,16000,29100
+2026-09,rolex-daytona-126500ln,Rolex,Cosmograph Daytona,126500LN,16000,28250
+2022-01,patek-nautilus-5711,Patek Philippe,Nautilus,5711/1A,35000,156850
+2022-02,patek-nautilus-5711,Patek Philippe,Nautilus,5711/1A,35000,163300
+2022-03,patek-nautilus-5711,Patek Philippe,Nautilus,5711/1A,35000,174800
+2022-04,patek-nautilus-5711,Patek Philippe,Nautilus,5711/1A,35000,171800
+2022-05,patek-nautilus-5711,Patek Philippe,Nautilus,5711/1A,35000,168500
+2022-06,patek-nautilus-5711,Patek Philippe,Nautilus,5711/1A,35000,165950
+2022-07,patek-nautilus-5711,Patek Philippe,Nautilus,5711/1A,35000,159800
+2022-08,patek-nautilus-5711,Patek Philippe,Nautilus,5711/1A,35000,151700
+2022-09,patek-nautilus-5711,Patek Philippe,Nautilus,5711/1A,35000,156450
+2022-10,patek-nautilus-5711,Patek Philippe,Nautilus,5711/1A,35000,148300
+2022-11,patek-nautilus-5711,Patek Philippe,Nautilus,5711/1A,35000,142700
+2022-12,patek-nautilus-5711,Patek Philippe,Nautilus,5711/1A,35000,136700
+2023-01,patek-nautilus-5711,Patek Philippe,Nautilus,5711/1A,35000,138850
+2023-02,patek-nautilus-5711,Patek Philippe,Nautilus,5711/1A,35000,130400
+2023-03,patek-nautilus-5711,Patek Philippe,Nautilus,5711/1A,35000,133750
+2023-04,patek-nautilus-5711,Patek Philippe,Nautilus,5711/1A,35000,128250
+2023-05,patek-nautilus-5711,Patek Philippe,Nautilus,5711/1A,35000,120650
+2023-06,patek-nautilus-5711,Patek Philippe,Nautilus,5711/1A,35000,120650
+2023-07,patek-nautilus-5711,Patek Philippe,Nautilus,5711/1A,35000,122700
+2023-08,patek-nautilus-5711,Patek Philippe,Nautilus,5711/1A,35000,111850
+2023-09,patek-nautilus-5711,Patek Philippe,Nautilus,5711/1A,35000,111900
+2023-10,patek-nautilus-5711,Patek Philippe,Nautilus,5711/1A,35000,106050
+2023-11,patek-nautilus-5711,Patek Philippe,Nautilus,5711/1A,35000,107850
+2023-12,patek-nautilus-5711,Patek Philippe,Nautilus,5711/1A,35000,108600
+2024-01,patek-nautilus-5711,Patek Philippe,Nautilus,5711/1A,35000,105050
+2024-02,patek-nautilus-5711,Patek Philippe,Nautilus,5711/1A,35000,105050
+2024-03,patek-nautilus-5711,Patek Philippe,Nautilus,5711/1A,35000,104850
+2024-04,patek-nautilus-5711,Patek Philippe,Nautilus,5711/1A,35000,105100
+2024-05,patek-nautilus-5711,Patek Philippe,Nautilus,5711/1A,35000,105150
+2024-06,patek-nautilus-5711,Patek Philippe,Nautilus,5711/1A,35000,107300
+2024-07,patek-nautilus-5711,Patek Philippe,Nautilus,5711/1A,35000,108250
+2024-08,patek-nautilus-5711,Patek Philippe,Nautilus,5711/1A,35000,101800
+2024-09,patek-nautilus-5711,Patek Philippe,Nautilus,5711/1A,35000,101450
+2024-10,patek-nautilus-5711,Patek Philippe,Nautilus,5711/1A,35000,108700
+2024-11,patek-nautilus-5711,Patek Philippe,Nautilus,5711/1A,35000,108900
+2024-12,patek-nautilus-5711,Patek Philippe,Nautilus,5711/1A,35000,104200
+2025-01,patek-nautilus-5711,Patek Philippe,Nautilus,5711/1A,35000,106600
+2025-02,patek-nautilus-5711,Patek Philippe,Nautilus,5711/1A,35000,108050
+2025-03,patek-nautilus-5711,Patek Philippe,Nautilus,5711/1A,35000,108950
+2025-04,patek-nautilus-5711,Patek Philippe,Nautilus,5711/1A,35000,107950
+2025-05,patek-nautilus-5711,Patek Philippe,Nautilus,5711/1A,35000,108500
+2025-06,patek-nautilus-5711,Patek Philippe,Nautilus,5711/1A,35000,107700
+2025-07,patek-nautilus-5711,Patek Philippe,Nautilus,5711/1A,35000,109950
+2025-08,patek-nautilus-5711,Patek Philippe,Nautilus,5711/1A,35000,108550
+2025-09,patek-nautilus-5711,Patek Philippe,Nautilus,5711/1A,35000,108350
+2025-10,patek-nautilus-5711,Patek Philippe,Nautilus,5711/1A,35000,108450
+2025-11,patek-nautilus-5711,Patek Philippe,Nautilus,5711/1A,35000,107950
+2025-12,patek-nautilus-5711,Patek Philippe,Nautilus,5711/1A,35000,111000
+2026-01,patek-nautilus-5711,Patek Philippe,Nautilus,5711/1A,35000,110500
+2026-02,patek-nautilus-5711,Patek Philippe,Nautilus,5711/1A,35000,110650
+2026-03,patek-nautilus-5711,Patek Philippe,Nautilus,5711/1A,35000,109750
+2026-04,patek-nautilus-5711,Patek Philippe,Nautilus,5711/1A,35000,112100
+2026-05,patek-nautilus-5711,Patek Philippe,Nautilus,5711/1A,35000,111450
+2026-06,patek-nautilus-5711,Patek Philippe,Nautilus,5711/1A,35000,108800
+2026-07,patek-nautilus-5711,Patek Philippe,Nautilus,5711/1A,35000,106400
+2026-08,patek-nautilus-5711,Patek Philippe,Nautilus,5711/1A,35000,110600
+2026-09,patek-nautilus-5711,Patek Philippe,Nautilus,5711/1A,35000,111700
+2022-01,ap-royal-oak-15510st,Audemars Piguet,Royal Oak,15510ST,30000,70550
+2022-02,ap-royal-oak-15510st,Audemars Piguet,Royal Oak,15510ST,30000,73700
+2022-03,ap-royal-oak-15510st,Audemars Piguet,Royal Oak,15510ST,30000,77050
+2022-04,ap-royal-oak-15510st,Audemars Piguet,Royal Oak,15510ST,30000,77500
+2022-05,ap-royal-oak-15510st,Audemars Piguet,Royal Oak,15510ST,30000,71700
+2022-06,ap-royal-oak-15510st,Audemars Piguet,Royal Oak,15510ST,30000,70950
+2022-07,ap-royal-oak-15510st,Audemars Piguet,Royal Oak,15510ST,30000,70050
+2022-08,ap-royal-oak-15510st,Audemars Piguet,Royal Oak,15510ST,30000,67400
+2022-09,ap-royal-oak-15510st,Audemars Piguet,Royal Oak,15510ST,30000,65600
+2022-10,ap-royal-oak-15510st,Audemars Piguet,Royal Oak,15510ST,30000,64750
+2022-11,ap-royal-oak-15510st,Audemars Piguet,Royal Oak,15510ST,30000,62550
+2022-12,ap-royal-oak-15510st,Audemars Piguet,Royal Oak,15510ST,30000,62550
+2023-01,ap-royal-oak-15510st,Audemars Piguet,Royal Oak,15510ST,30000,57700
+2023-02,ap-royal-oak-15510st,Audemars Piguet,Royal Oak,15510ST,30000,58900
+2023-03,ap-royal-oak-15510st,Audemars Piguet,Royal Oak,15510ST,30000,58800
+2023-04,ap-royal-oak-15510st,Audemars Piguet,Royal Oak,15510ST,30000,55050
+2023-05,ap-royal-oak-15510st,Audemars Piguet,Royal Oak,15510ST,30000,53550
+2023-06,ap-royal-oak-15510st,Audemars Piguet,Royal Oak,15510ST,30000,53400
+2023-07,ap-royal-oak-15510st,Audemars Piguet,Royal Oak,15510ST,30000,51800
+2023-08,ap-royal-oak-15510st,Audemars Piguet,Royal Oak,15510ST,30000,51050
+2023-09,ap-royal-oak-15510st,Audemars Piguet,Royal Oak,15510ST,30000,48950
+2023-10,ap-royal-oak-15510st,Audemars Piguet,Royal Oak,15510ST,30000,48450
+2023-11,ap-royal-oak-15510st,Audemars Piguet,Royal Oak,15510ST,30000,47700
+2023-12,ap-royal-oak-15510st,Audemars Piguet,Royal Oak,15510ST,30000,44100
+2024-01,ap-royal-oak-15510st,Audemars Piguet,Royal Oak,15510ST,30000,46100
+2024-02,ap-royal-oak-15510st,Audemars Piguet,Royal Oak,15510ST,30000,46700
+2024-03,ap-royal-oak-15510st,Audemars Piguet,Royal Oak,15510ST,30000,45400
+2024-04,ap-royal-oak-15510st,Audemars Piguet,Royal Oak,15510ST,30000,45450
+2024-05,ap-royal-oak-15510st,Audemars Piguet,Royal Oak,15510ST,30000,47450
+2024-06,ap-royal-oak-15510st,Audemars Piguet,Royal Oak,15510ST,30000,46250
+2024-07,ap-royal-oak-15510st,Audemars Piguet,Royal Oak,15510ST,30000,47250
+2024-08,ap-royal-oak-15510st,Audemars Piguet,Royal Oak,15510ST,30000,47850
+2024-09,ap-royal-oak-15510st,Audemars Piguet,Royal Oak,15510ST,30000,48000
+2024-10,ap-royal-oak-15510st,Audemars Piguet,Royal Oak,15510ST,30000,46100
+2024-11,ap-royal-oak-15510st,Audemars Piguet,Royal Oak,15510ST,30000,47750
+2024-12,ap-royal-oak-15510st,Audemars Piguet,Royal Oak,15510ST,30000,47150
+2025-01,ap-royal-oak-15510st,Audemars Piguet,Royal Oak,15510ST,30000,46050
+2025-02,ap-royal-oak-15510st,Audemars Piguet,Royal Oak,15510ST,30000,48300
+2025-03,ap-royal-oak-15510st,Audemars Piguet,Royal Oak,15510ST,30000,48900
+2025-04,ap-royal-oak-15510st,Audemars Piguet,Royal Oak,15510ST,30000,47950
+2025-05,ap-royal-oak-15510st,Audemars Piguet,Royal Oak,15510ST,30000,49000
+2025-06,ap-royal-oak-15510st,Audemars Piguet,Royal Oak,15510ST,30000,48950
+2025-07,ap-royal-oak-15510st,Audemars Piguet,Royal Oak,15510ST,30000,48950
+2025-08,ap-royal-oak-15510st,Audemars Piguet,Royal Oak,15510ST,30000,47350
+2025-09,ap-royal-oak-15510st,Audemars Piguet,Royal Oak,15510ST,30000,49650
+2025-10,ap-royal-oak-15510st,Audemars Piguet,Royal Oak,15510ST,30000,48050
+2025-11,ap-royal-oak-15510st,Audemars Piguet,Royal Oak,15510ST,30000,48050
+2025-12,ap-royal-oak-15510st,Audemars Piguet,Royal Oak,15510ST,30000,48900
+2026-01,ap-royal-oak-15510st,Audemars Piguet,Royal Oak,15510ST,30000,50850
+2026-02,ap-royal-oak-15510st,Audemars Piguet,Royal Oak,15510ST,30000,50400
+2026-03,ap-royal-oak-15510st,Audemars Piguet,Royal Oak,15510ST,30000,51350
+2026-04,ap-royal-oak-15510st,Audemars Piguet,Royal Oak,15510ST,30000,49900
+2026-05,ap-royal-oak-15510st,Audemars Piguet,Royal Oak,15510ST,30000,50850
+2026-06,ap-royal-oak-15510st,Audemars Piguet,Royal Oak,15510ST,30000,50100
+2026-07,ap-royal-oak-15510st,Audemars Piguet,Royal Oak,15510ST,30000,50150
+2026-08,ap-royal-oak-15510st,Audemars Piguet,Royal Oak,15510ST,30000,51300
+2026-09,ap-royal-oak-15510st,Audemars Piguet,Royal Oak,15510ST,30000,50950
+2022-01,omega-speedmaster-moonwatch,Omega,Speedmaster Moonwatch,310.30.42.50.01.002,7600,5700
+2022-02,omega-speedmaster-moonwatch,Omega,Speedmaster Moonwatch,310.30.42.50.01.002,7600,6050
+2022-03,omega-speedmaster-moonwatch,Omega,Speedmaster Moonwatch,310.30.42.50.01.002,7600,6050
+2022-04,omega-speedmaster-moonwatch,Omega,Speedmaster Moonwatch,310.30.42.50.01.002,7600,6300
+2022-05,omega-speedmaster-moonwatch,Omega,Speedmaster Moonwatch,310.30.42.50.01.002,7600,6050
+2022-06,omega-speedmaster-moonwatch,Omega,Speedmaster Moonwatch,310.30.42.50.01.002,7600,6050
+2022-07,omega-speedmaster-moonwatch,Omega,Speedmaster Moonwatch,310.30.42.50.01.002,7600,5850
+2022-08,omega-speedmaster-moonwatch,Omega,Speedmaster Moonwatch,310.30.42.50.01.002,7600,6100
+2022-09,omega-speedmaster-moonwatch,Omega,Speedmaster Moonwatch,310.30.42.50.01.002,7600,6050
+2022-10,omega-speedmaster-moonwatch,Omega,Speedmaster Moonwatch,310.30.42.50.01.002,7600,5850
+2022-11,omega-speedmaster-moonwatch,Omega,Speedmaster Moonwatch,310.30.42.50.01.002,7600,5900
+2022-12,omega-speedmaster-moonwatch,Omega,Speedmaster Moonwatch,310.30.42.50.01.002,7600,5800
+2023-01,omega-speedmaster-moonwatch,Omega,Speedmaster Moonwatch,310.30.42.50.01.002,7600,6100
+2023-02,omega-speedmaster-moonwatch,Omega,Speedmaster Moonwatch,310.30.42.50.01.002,7600,5750
+2023-03,omega-speedmaster-moonwatch,Omega,Speedmaster Moonwatch,310.30.42.50.01.002,7600,6000
+2023-04,omega-speedmaster-moonwatch,Omega,Speedmaster Moonwatch,310.30.42.50.01.002,7600,5750
+2023-05,omega-speedmaster-moonwatch,Omega,Speedmaster Moonwatch,310.30.42.50.01.002,7600,6100
+2023-06,omega-speedmaster-moonwatch,Omega,Speedmaster Moonwatch,310.30.42.50.01.002,7600,6000
+2023-07,omega-speedmaster-moonwatch,Omega,Speedmaster Moonwatch,310.30.42.50.01.002,7600,5900
+2023-08,omega-speedmaster-moonwatch,Omega,Speedmaster Moonwatch,310.30.42.50.01.002,7600,5750
+2023-09,omega-speedmaster-moonwatch,Omega,Speedmaster Moonwatch,310.30.42.50.01.002,7600,5700
+2023-10,omega-speedmaster-moonwatch,Omega,Speedmaster Moonwatch,310.30.42.50.01.002,7600,5800
+2023-11,omega-speedmaster-moonwatch,Omega,Speedmaster Moonwatch,310.30.42.50.01.002,7600,5750
+2023-12,omega-speedmaster-moonwatch,Omega,Speedmaster Moonwatch,310.30.42.50.01.002,7600,5600
+2024-01,omega-speedmaster-moonwatch,Omega,Speedmaster Moonwatch,310.30.42.50.01.002,7600,5850
+2024-02,omega-speedmaster-moonwatch,Omega,Speedmaster Moonwatch,310.30.42.50.01.002,7600,5800
+2024-03,omega-speedmaster-moonwatch,Omega,Speedmaster Moonwatch,310.30.42.50.01.002,7600,5700
+2024-04,omega-speedmaster-moonwatch,Omega,Speedmaster Moonwatch,310.30.42.50.01.002,7600,5750
+2024-05,omega-speedmaster-moonwatch,Omega,Speedmaster Moonwatch,310.30.42.50.01.002,7600,5850
+2024-06,omega-speedmaster-moonwatch,Omega,Speedmaster Moonwatch,310.30.42.50.01.002,7600,5850
+2024-07,omega-speedmaster-moonwatch,Omega,Speedmaster Moonwatch,310.30.42.50.01.002,7600,5850
+2024-08,omega-speedmaster-moonwatch,Omega,Speedmaster Moonwatch,310.30.42.50.01.002,7600,5850
+2024-09,omega-speedmaster-moonwatch,Omega,Speedmaster Moonwatch,310.30.42.50.01.002,7600,5700
+2024-10,omega-speedmaster-moonwatch,Omega,Speedmaster Moonwatch,310.30.42.50.01.002,7600,6100
+2024-11,omega-speedmaster-moonwatch,Omega,Speedmaster Moonwatch,310.30.42.50.01.002,7600,5900
+2024-12,omega-speedmaster-moonwatch,Omega,Speedmaster Moonwatch,310.30.42.50.01.002,7600,5800
+2025-01,omega-speedmaster-moonwatch,Omega,Speedmaster Moonwatch,310.30.42.50.01.002,7600,6000
+2025-02,omega-speedmaster-moonwatch,Omega,Speedmaster Moonwatch,310.30.42.50.01.002,7600,5800
+2025-03,omega-speedmaster-moonwatch,Omega,Speedmaster Moonwatch,310.30.42.50.01.002,7600,5950
+2025-04,omega-speedmaster-moonwatch,Omega,Speedmaster Moonwatch,310.30.42.50.01.002,7600,5700
+2025-05,omega-speedmaster-moonwatch,Omega,Speedmaster Moonwatch,310.30.42.50.01.002,7600,5950
+2025-06,omega-speedmaster-moonwatch,Omega,Speedmaster Moonwatch,310.30.42.50.01.002,7600,5900
+2025-07,omega-speedmaster-moonwatch,Omega,Speedmaster Moonwatch,310.30.42.50.01.002,7600,6050
+2025-08,omega-speedmaster-moonwatch,Omega,Speedmaster Moonwatch,310.30.42.50.01.002,7600,6200
+2025-09,omega-speedmaster-moonwatch,Omega,Speedmaster Moonwatch,310.30.42.50.01.002,7600,6200
+2025-10,omega-speedmaster-moonwatch,Omega,Speedmaster Moonwatch,310.30.42.50.01.002,7600,6050
+2025-11,omega-speedmaster-moonwatch,Omega,Speedmaster Moonwatch,310.30.42.50.01.002,7600,6250
+2025-12,omega-speedmaster-moonwatch,Omega,Speedmaster Moonwatch,310.30.42.50.01.002,7600,6350
+2026-01,omega-speedmaster-moonwatch,Omega,Speedmaster Moonwatch,310.30.42.50.01.002,7600,6250
+2026-02,omega-speedmaster-moonwatch,Omega,Speedmaster Moonwatch,310.30.42.50.01.002,7600,6050
+2026-03,omega-speedmaster-moonwatch,Omega,Speedmaster Moonwatch,310.30.42.50.01.002,7600,6100
+2026-04,omega-speedmaster-moonwatch,Omega,Speedmaster Moonwatch,310.30.42.50.01.002,7600,6300
+2026-05,omega-speedmaster-moonwatch,Omega,Speedmaster Moonwatch,310.30.42.50.01.002,7600,6050
+2026-06,omega-speedmaster-moonwatch,Omega,Speedmaster Moonwatch,310.30.42.50.01.002,7600,6350
+2026-07,omega-speedmaster-moonwatch,Omega,Speedmaster Moonwatch,310.30.42.50.01.002,7600,6250
+2026-08,omega-speedmaster-moonwatch,Omega,Speedmaster Moonwatch,310.30.42.50.01.002,7600,6550
+2026-09,omega-speedmaster-moonwatch,Omega,Speedmaster Moonwatch,310.30.42.50.01.002,7600,6300
+2022-01,tudor-black-bay-58,Tudor,Black Bay 58,M79030N,4100,3750
+2022-02,tudor-black-bay-58,Tudor,Black Bay 58,M79030N,4100,3700
+2022-03,tudor-black-bay-58,Tudor,Black Bay 58,M79030N,4100,3700
+2022-04,tudor-black-bay-58,Tudor,Black Bay 58,M79030N,4100,3800
+2022-05,tudor-black-bay-58,Tudor,Black Bay 58,M79030N,4100,3700
+2022-06,tudor-black-bay-58,Tudor,Black Bay 58,M79030N,4100,3800
+2022-07,tudor-black-bay-58,Tudor,Black Bay 58,M79030N,4100,3750
+2022-08,tudor-black-bay-58,Tudor,Black Bay 58,M79030N,4100,3700
+2022-09,tudor-black-bay-58,Tudor,Black Bay 58,M79030N,4100,3650
+2022-10,tudor-black-bay-58,Tudor,Black Bay 58,M79030N,4100,3650
+2022-11,tudor-black-bay-58,Tudor,Black Bay 58,M79030N,4100,3550
+2022-12,tudor-black-bay-58,Tudor,Black Bay 58,M79030N,4100,3550
+2023-01,tudor-black-bay-58,Tudor,Black Bay 58,M79030N,4100,3550
+2023-02,tudor-black-bay-58,Tudor,Black Bay 58,M79030N,4100,3550
+2023-03,tudor-black-bay-58,Tudor,Black Bay 58,M79030N,4100,3500
+2023-04,tudor-black-bay-58,Tudor,Black Bay 58,M79030N,4100,3500
+2023-05,tudor-black-bay-58,Tudor,Black Bay 58,M79030N,4100,3400
+2023-06,tudor-black-bay-58,Tudor,Black Bay 58,M79030N,4100,3450
+2023-07,tudor-black-bay-58,Tudor,Black Bay 58,M79030N,4100,3550
+2023-08,tudor-black-bay-58,Tudor,Black Bay 58,M79030N,4100,3400
+2023-09,tudor-black-bay-58,Tudor,Black Bay 58,M79030N,4100,3350
+2023-10,tudor-black-bay-58,Tudor,Black Bay 58,M79030N,4100,3300
+2023-11,tudor-black-bay-58,Tudor,Black Bay 58,M79030N,4100,3250
+2023-12,tudor-black-bay-58,Tudor,Black Bay 58,M79030N,4100,3300
+2024-01,tudor-black-bay-58,Tudor,Black Bay 58,M79030N,4100,3350
+2024-02,tudor-black-bay-58,Tudor,Black Bay 58,M79030N,4100,3300
+2024-03,tudor-black-bay-58,Tudor,Black Bay 58,M79030N,4100,3250
+2024-04,tudor-black-bay-58,Tudor,Black Bay 58,M79030N,4100,3300
+2024-05,tudor-black-bay-58,Tudor,Black Bay 58,M79030N,4100,3250
+2024-06,tudor-black-bay-58,Tudor,Black Bay 58,M79030N,4100,3350
+2024-07,tudor-black-bay-58,Tudor,Black Bay 58,M79030N,4100,3250
+2024-08,tudor-black-bay-58,Tudor,Black Bay 58,M79030N,4100,3350
+2024-09,tudor-black-bay-58,Tudor,Black Bay 58,M79030N,4100,3250
+2024-10,tudor-black-bay-58,Tudor,Black Bay 58,M79030N,4100,3200
+2024-11,tudor-black-bay-58,Tudor,Black Bay 58,M79030N,4100,3250
+2024-12,tudor-black-bay-58,Tudor,Black Bay 58,M79030N,4100,3250
+2025-01,tudor-black-bay-58,Tudor,Black Bay 58,M79030N,4100,3250
+2025-02,tudor-black-bay-58,Tudor,Black Bay 58,M79030N,4100,3300
+2025-03,tudor-black-bay-58,Tudor,Black Bay 58,M79030N,4100,3150
+2025-04,tudor-black-bay-58,Tudor,Black Bay 58,M79030N,4100,3250
+2025-05,tudor-black-bay-58,Tudor,Black Bay 58,M79030N,4100,3250
+2025-06,tudor-black-bay-58,Tudor,Black Bay 58,M79030N,4100,3200
+2025-07,tudor-black-bay-58,Tudor,Black Bay 58,M79030N,4100,3300
+2025-08,tudor-black-bay-58,Tudor,Black Bay 58,M79030N,4100,3200
+2025-09,tudor-black-bay-58,Tudor,Black Bay 58,M79030N,4100,3200
+2025-10,tudor-black-bay-58,Tudor,Black Bay 58,M79030N,4100,3300
+2025-11,tudor-black-bay-58,Tudor,Black Bay 58,M79030N,4100,3300
+2025-12,tudor-black-bay-58,Tudor,Black Bay 58,M79030N,4100,3350
+2026-01,tudor-black-bay-58,Tudor,Black Bay 58,M79030N,4100,3300
+2026-02,tudor-black-bay-58,Tudor,Black Bay 58,M79030N,4100,3300
+2026-03,tudor-black-bay-58,Tudor,Black Bay 58,M79030N,4100,3300
+2026-04,tudor-black-bay-58,Tudor,Black Bay 58,M79030N,4100,3350
+2026-05,tudor-black-bay-58,Tudor,Black Bay 58,M79030N,4100,3250
+2026-06,tudor-black-bay-58,Tudor,Black Bay 58,M79030N,4100,3350
+2026-07,tudor-black-bay-58,Tudor,Black Bay 58,M79030N,4100,3350
+2026-08,tudor-black-bay-58,Tudor,Black Bay 58,M79030N,4100,3400
+2026-09,tudor-black-bay-58,Tudor,Black Bay 58,M79030N,4100,3250
