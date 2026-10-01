@@ -1,0 +1,38 @@
+<!-- templates/watch.html -->
+{# templates/watch.html #}
+{% extends 'layout.html' %}
+{% block content %}
+<h1>{{ watch.brand }} {{ watch.model }}</h1>
+<p class="subtitle">Reference {{ watch.reference }}</p>
+
+<div class="stats">
+    <div class="stat">
+        <div class="label">Current price</div>
+        <div class="value">{{ watch.current_price_display }} €</div>
+    </div>
+    <div class="stat">
+        <div class="label">Lowest price</div>
+        <div class="value">{{ watch.minimum_price_display }} €</div>
+    </div>
+    <div class="stat">
+        <div class="label">Highest price</div>
+        <div class="value">{{ watch.maximum_price_display }} €</div>
+    </div>
+    <div class="stat">
+        <div class="label">12-month change</div>
+        <div class="value {% if watch.change_12m >= 0 %}up{% else %}down{% endif %}">{{ watch.change_12m }} %</div>
+    </div>
+    <div class="stat">
+        <div class="label">Total change</div>
+        <div class="value {% if watch.change_total >= 0 %}up{% else %}down{% endif %}">{{ watch.change_total }} %</div>
+    </div>
+    <div class="stat">
+        <div class="label">Premium over retail</div>
+        <div class="value">{{ watch.premium }} %</div>
+    </div>
+    <div class="stat">
+        <div class="label">Yearly volatility</div>
+        <div class="value">{{ watch.yearly_volatility }} %</div>
+    </div>
+</div>
+{% endblock %}

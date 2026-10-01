@@ -1,0 +1,24 @@
+<!-- templates/home.html -->
+{# templates/home.html #}
+{% extends 'layout.html' %}
+{% block content %}
+<h1>Watch Tracker</h1>
+<p class="subtitle">Secondhand market value of six reference watches, 2022 to 2026.</p>
+
+<table>
+    <tr>
+        <th>Watch</th>
+        <th>Price (EUR)</th>
+        <th>12-month change</th>
+        <th>change since 2022-01</th>
+    </tr>
+    {% for w in watches %}
+    <tr>
+        <td><a href="{{ url_for('watch', slug=w.slug) }}">{{ w.brand }} {{ w.model }}</a></td>
+        <td>{{ w.current_price_display }}</td>
+        <td class="{% if w.change_12m >= 0 %}up{% else %}down{% endif %}">{{ w.change_12m }} %</td>
+        <td class="{% if w.change_total >= 0%}up{% else %}down{% endif %}">{{ w.change_total }} %</td>
+    </tr>
+    {% endfor %}
+</table>
+{% endblock %}

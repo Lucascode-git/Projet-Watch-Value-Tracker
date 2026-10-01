@@ -1,0 +1,42 @@
+<!-- templates/about.html -->
+{# templates/about.html #}
+{% extends 'layout.html' %}
+{% block content %}
+<h1>About this project</h1>
+<p class="subtitle">A secondhand watch value tracker built with Python and Flask.</p>
+
+<h2>What it does</h2>
+<p>
+    Watch Tracker follows the secondhand market value of six reference watches
+    from January 2022 to September 2026. For each watch, it shows the current
+    price, its 12-month change, its premium over retail price and its volatility,
+    along with a price history chart.
+</p>
+<p>
+    The simulator answers a simple question: if you had bought a given watch in a
+    given month at a given price, what would it be worth today?
+</p>
+
+<h2>How it works</h2>
+<ul>
+    <li><strong>Flask</strong> handles the routes, the templates and the form.</li>
+    <li><strong>pandas</strong> loads and filters the price history.</li>
+    <li><strong>NumPy</strong> computes the returns, price changes and annualized volatility.</li>
+    <li><strong>Matplotlib</strong> draws the price charts, generated on each visit.</li>
+</ul>
+
+<h2>About the data</h2>
+<p>
+    All prices on this site are simulated for demonstration purposes. They follow
+    the general shape of the luxury watch market since 2022, a peak in early 2022
+    followed by a correction through 2023, but they are not real market prices
+    and should not be used for any buying or selling decision.
+</p>
+
+<h2>Author</h2>
+<p>
+    Built by Lucas Marie as part of a 30-day Python challenge.
+    Source code on <a href="https://github.com/your-username/watch-tracker">GitHub</a>.
+</p>
+
+{% endblock %}

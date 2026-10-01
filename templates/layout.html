@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Watch Tracker - {{ title }}</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+</head>
+
+<body>
+    <nav>
+        <a class="brand-name" href="{{ url_for('home') }}">Watch Tracker</a>
+        <a href="{{ url_for('home') }}">Home</a>
+        <a href="{{ url_for('simulate') }}">Simulate</a>
+        <a href="{{ url_for('about') }}">About</a>
+    </nav>
+    <main>
+        {% block content %}{% endblock %}
+    </main>
+    <footer>Simulated data</footer>
+</body>
+
+</html>
