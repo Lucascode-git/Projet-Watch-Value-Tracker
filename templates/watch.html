@@ -1,5 +1,5 @@
-<!-- templates/watch.html -->
 {# templates/watch.html #}
+
 {% extends 'layout.html' %}
 {% block content %}
 <h1>{{ watch.brand }} {{ watch.model }}</h1>
@@ -35,4 +35,6 @@
         <div class="value">{{ watch.yearly_volatility }} %</div>
     </div>
 </div>
+<img class="chart" src="{{ url_for('static', filename=chart) }}" alt="Price history">
+
 {% endblock %}
