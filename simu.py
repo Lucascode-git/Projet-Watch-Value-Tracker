@@ -62,4 +62,14 @@ def chart(history):
     plt.xticks(date_prices[::6], rotation=45)
     plt.show()
 
-print(chart(get_history('rolex-daytona-126500ln')))
+#print(chart(get_history('rolex-daytona-126500ln')))
+
+def compute(history, date, paid):
+    buying_date = history['date'] == date
+    current_price = history['price'].to_numpy()[-1]
+    price_at_date = history.loc[buying_date, 'price'].to_numpy()[0]
+    print(price_at_date)
+
+hist = get_history('rolex-daytona-126500ln')
+compute(hist, '04-2025', 20000)
+

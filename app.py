@@ -1,4 +1,6 @@
 # 1: Imports ------------
+from numpy import append
+from flask import request
 from flask import abort
 from flask import render_template
 from flask import Flask
@@ -81,6 +83,23 @@ def create_charts(history, slug):
     return f'allcharts/{slug}.png'
 
 
+def simulate_purchase(history, date, paid):
+    """Compare the price paid with the market price at purchase and today, return a dict of numbers."""
+    simulation = {}
+
+    date_purchase = history['date'] == date
+    current_price = history['price'].to_numpy()[-1]
+    price_purchase_month = history.loc[date_purchase, 'price'].to_numpy()[0]
+    
+    simulation['market_price_then'] = int(price_purchase_month)
+    simulation['gap_to_market'] = round(float((paid - price_purchase_month) / price_purchase_month *100),1)
+    simulation['current_price'] = int(current_price)
+    simulation['gain'] = int(current_price - paid)
+    simulation['gain_percent'] = round(float((current_price - paid) / paid *100),1)
+    return simulation
+
+
+
 # 5: Routes -----------------
 @app.route('/')
 def home():
@@ -93,19 +112,60 @@ def home():
             'brand': history['brand'].to_numpy()[0],
             'model': history['model'].to_numpy()[0],
             'current_price': stats['current_price'],
-            'current_price_display': f'{stats['current_price']:,.0f}',
+            'current_price_display': f"{stats['current_price']:,.0f}",
             'change_12m': stats['variation_12m'],
             'change_total': stats['all_variation'],})
 
     return render_template('home.html', watch=watch, title='Home')
 
+
 @app.route('/about')
 def about():
     return render_template('about.html', title='About')
 
-@app.route('/simulate')
+
+@app.route('/simulate', methods=['GET', 'POST'])
 def simulate():
-    return render_template('simulate.html', title='Simulate')
+    watch = []
+    for slug in file['slug'].unique():
+        history = get_history(slug)
+        watch.append({
+            'slug': slug,
+            'brand': history['brand'].to_numpy()[0],
+            'model': history['model'].to_numpy()[0]
+        })
+    months = file['date'].dt.strftime('%b-%Y').unique()
+
+    # 1. First visit: empty form
+    if request.method == 'GET':
+        return render_template('simulate.html', watch=watch, months=months, title='Simulate')
+    # 2. Form submitted: read the fields
+    slug = request.form['slug']
+    date = request.form['date']
+    # 3. Convert the price, or show an error
+    try:
+        paid = float(request.form['paid'])
+    except ValueError:
+        return render_template('simulate.html', watch=watch, months=months, title='Simulate',
+                               error='Enter a number')
+
+    # 4. Compute
+    history = get_history(slug)
+    result = simulate_purchase(history, date, paid)
+
+    result['paid_display'] = f"{paid:,.0f}"
+    result['market_price_then_display'] = f"{result['market_price_then']:,}"
+    result['current_price_display'] = f"{result['current_price']:,}"
+    result['gain_display'] = f"{result['gain']:,}"
+    result['brand'] = history['brand'].to_numpy()[0]
+    result['model'] = history['model'].to_numpy()[0]
+    result['date'] = date
+
+    # 5. Show the form with the result below
+    return render_template('simulate.html', watch=watch, months=months, title='Simulate', result=result)
+
+
+
 
 @app.route('/watch/<slug>')
 def watch(slug):
