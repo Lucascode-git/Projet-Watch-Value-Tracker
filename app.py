@@ -116,7 +116,7 @@ def home():
             'change_12m': stats['variation_12m'],
             'change_total': stats['all_variation'],})
 
-    return render_template('home.html', watch=watch, title='Home')
+    return render_template('home.html', watchs=watch, title='Home')
 
 
 @app.route('/about')
